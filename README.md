@@ -1,8 +1,8 @@
 Buckle up, web warriors! ⚔️
 - 👋 I'm Sifat, a frontend developer with fire in my code and a sparkle in my pixels. ✨
 
-- 👀
-- My jam:
+
+- 👀 My jam:
 
 Building interfaces that are as smooth as butter and solve problems like a ninja.
 Devouring new tech like a hungry code goblin. (React, anyone?)
